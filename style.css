@@ -1,0 +1,178 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+#header{
+    height: 100vh;
+    background-image: url(haha%20fakk%20dette.jpg.JPG);
+    background-position: center;
+    background-size: cover;
+    
+}
+.header-text{
+    max-width:350px;
+    float: right;
+    
+}
+h1{
+    
+    font-size: 20px;
+    
+}
+.square{
+    
+    height: 12px;
+    width: 12px;
+    display: inline-block;
+    background: #f67c92;
+    margin: 15px 0;
+}
+.common-btn{
+    padding: 6px 9px;
+    background: #99edc3;
+    outline: none;
+    border: 2px solid black;
+    font-weight: bold;
+    cursor: pointer;
+}
+p{
+    
+font-size: 15px;
+    line-height: 19px;
+    color: black;
+}
+.header-text button{
+    margin-top: 20px;
+    margin-bottom: 60;
+}
+.line-1{
+    width: 15px;
+    height: 15px;
+    background: #f67c92;
+    display: inline-block;
+}
+.line-2{
+    width: 80px;
+    height: 1px;
+    background: #f67c92;
+    display: inline-block;
+}
+.line-3{
+    width: 60px;
+    height: 1px;
+    background: #f67c92;
+    display: inline-block;
+}
+.line{
+    line-height: 8px;
+}
+#sideNav{
+    width: 140px;
+    height: 100vh;
+    position: fixed;
+    top: 1px;
+    background: #82cafa;
+    border: 2px solid black;
+    z-index: 1;   
+}
+nav ul li{
+    list-style: none;
+    margin:100px 20px
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 16px
+}
+.showcasetext{
+   text-align: center;
+   margin-top: 400px;
+    padding: 18px 40px;
+    
+    }
+#showcase{
+    height: 100vh;
+    background-image: url(escaperoom.png.png);
+    background-position: center;
+    background-size: cover;   
+}
+ #hjelpemiddler{
+    height: 100vh;
+    background-image: url(hjelpemiddler.png);
+    background-position: center;
+    background-size: cover;
+     
+    
+    }
+.hjelpemiddlertext{
+    text-align: center;
+   margin-top:;
+    padding:40px;    
+     }
+
+    #sideNav2{
+    width: 130px;
+    height: 250vh;
+    background: #99edc3;
+    border: 4px solid black;
+    z-index: ; 
+    position: absolute;
+    top: 1px;
+    right: 0px;
+}
+nav ul li -2{
+    text-decoration: none;
+    color: black;
+    position: ;
+}
+#internett-text{
+      text-align: center;
+   margin-top: 300px;
+    padding: 189px 40px; 
+    margin-left: 20%;
+}
+#internett{
+  height: 100vh;
+    background-image: url(internett.jpg);
+    background-position: center;
+    background-size: cover;   
+}
+.åndsverksloven h1{
+    text-align: center;
+   padding: 30px;
+    margin-left: 20%; 
+}
+#åndeverksloven2{
+    height: 100vh;
+   background-image: url(lovbok3.jpg); 
+    background-position: center;
+    background-size: cover;
+    
+}
+    
+
+
+#scratch{
+    height: 100vh;
+    background-image: url(scartch.png);
+    background-position: center;
+    background-size: cover;   
+}
+    .scratchtext{
+   text-align: center;
+   padding: 30px;
+    margin-left: 20%; 
+}
+#engelsk{
+    height: 100vh;
+    background-image: url(engelsk.png);
+    background-position: center;
+    background-size: cover;   
+}
+    .engelsktext{
+      text-align: center;
+   margin-top: 300px;
+    padding: 189px 40px; 
+    margin-left: 20%; 
+}
